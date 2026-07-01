@@ -1,0 +1,17 @@
+# Angular
+frontend/node_modules/
+frontend/dist/
+
+# .NET
+backend/bin/
+backend/obj/
+
+# OS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+
+# Secrets
+.env
