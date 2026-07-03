@@ -6,14 +6,14 @@
 - PostgreSQL
 
 ## Frontend
-cd frontend
-npm install
-ng serve
+- cd frontend
+- npm install
+- ng serve
 
 ## Backend
-cd backend
-dotnet run
-(Password for the database in appsettings.json is "postgres123")
+- cd backend
+- dotnet run
+- (Password for the database in appsettings.json is "postgres123")
 
 ## Database
 Import database/schema.sql
